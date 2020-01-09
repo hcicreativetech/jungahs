@@ -13,4 +13,4 @@ Write **one to two paragraphs** about your reactions and thoughts to the weekly 
 
 ## The Trouble with "Creativity" 
 
-- I think the major argument in this chapter is that creativity is more domain specific than domain general. I believe this argument requires more examination because some creative people like da Vinci and Einstein were both an artist/musician and a scientists. Although many areas have been diverged since then, now many areas are being merged as interdisciplinary research fields.
+- I think the major argument in this chapter is that creativity is more domain specific than domain general. I believe this argument requires more examination because some creative people like da Vinci and Einstein were both an artist/musician and a scientist. Although many areas have been diverged since then, now many areas are being merged as interdisciplinary research fields.
