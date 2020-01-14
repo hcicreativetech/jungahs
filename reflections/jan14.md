@@ -6,7 +6,8 @@ Write **one to two paragraphs** about your reactions and thoughts to the weekly 
 
 - I really enjoyed this piece because flow has been always my concern and interest. Until the beginning of last year, I couldn't achieve flow easily and found some reasons why from the text. One of the reasons was that challenges were too difficult for me and I didn't have enough skills to achieve the goal. 
 
-- One thing I have noticed interesting is that watching TV does not lead us to the flow condition. And this leisure activity fails to be translated into enjoyment, which is contradictory to what we normally perceive.     
+- One thing that I have noticed interesting is that watching TV does not lead us to the flow condition. And this leisure activity fails to be translated into enjoyment, which is contradictory to what we normally perceive.     
+
 - 'The autotelic personality' section was very inspiring. I am generally a self-conscious person, who constantly worry about how others will perceive me. I agree that my psychic energy is many times put into this consciousness that I lose enjoyment. 
 
 - Another thing that stood out to me was anomie. Korea, where I am from, has experienced anomie due to the rapid change in economical prosperity. Our scientific and technological development was significant, but our culture and social system couldn't keep up with the speed. The author mentions that it is not clear what is worth investing psychic energy in when a society suffers from anomie. I think this is one of the reasons why it is difficult for young generation in Korea to experience flow.    
