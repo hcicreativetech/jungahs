@@ -4,7 +4,7 @@ The assigned readings showcase three strategies for informing the design of tech
 
 ## Lessons from the Woodshop: Cultivating Design with Living Materials   
 
-- I think an 18-month ethnographic study of timber framing at a tiny house contruction program in this paper allowed the authors a deep understanding about the material (wood). Especially for living materials that actively change over time, maybe it is a must to do an ethnographic study like this to fully utilize the advantages and disadvantages of the material. 
+- I think that an 18-month ethnographic study of timber framing at a tiny house contruction program in this paper allowed the authors a deep understanding about the material (wood). Especially for living materials that actively change over time, maybe it is a must to do an ethnographic study like this to fully utilize the advantages and disadvantages of the material. 
 
 - Limitations can be seeking out new tools, procedures, and pedagiges for working with living materials as mentioned. And since the materials change depending on various factors and the environment, it is hard to generalize them and rely on their previous information to make use of them in a different environment.               
 
