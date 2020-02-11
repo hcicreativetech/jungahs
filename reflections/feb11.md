@@ -1,0 +1,9 @@
+# Reflection: February 11th 
+
+The Makey Makey (which we experimented with in the previous class) is a technology for making user interfaces. Using the Makey Makey as an example, discuss its benefits and limitations as a prototyping technology and as a technology for conducting research through design. Compare your evaluation of the Makey Makey with how prototyping and research through design are presented in the respective readings. 
+
+- Makey Makey is very intuitive to use. I felt like it is very well-made that people without breadboard experience can use it easily. However, there were some limitations as well. Since it only had mappings to 18 keys, things that we were building had to be confined. In addition, since the alligator clips and connector wires were limited in number, it was hard to extend it to larger interfaces for collaboration. (extensibiltiy)  
+
+- Zimmerman proposed in our reading about four criteria of evaluating an interaction desing research contribution: process, invention, relevance, and extensibility. I think the process of generating interface from Mackey Mackey is well descripted in our previous reading. Although it is not using new technology, I think the fact that it allows tinkering process for users above age 8 can serve well as its contribution to interaction design research. (invention) 
+
+- Considering the three principal categories of prototypes on the model, I think that Makey Makey lies somewhere between 'role' prototpyes and 'look and feel' prototypes. Although I could see how we can use Makey Makey, I couldn't find the part how itself was implemented.        
