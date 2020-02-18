@@ -1,0 +1,5 @@
+# Reflection: February 18th 
+
+Both readings present the idea of "not knowing", or removing the notion of "expert" as a key component to facilitating creativity. From your perspective, what are the benefits of putting aside the ideas of "expert" and "novice" in a creative setting? What are the challenges? 
+
+- I think that once we set the ideas of "expert" and "novice", it creates the environment of hierarchy. The knowledge seems to be transferring in one direction from the expert to the novice in this environment. This kind of setting can be effective when novice wants to quickly adapt to the new learning environment and concepts. However, I don't think it is so effective in a creative setting. As we saw in Roque and Jain's paper, everyone has spaces to learn. Putting aside the ideas of "expert" and "novice" creates more horizontal relationships between people, which is more beneficial for people to share their ideas and learn from each other.  
